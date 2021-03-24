@@ -32,6 +32,6 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 PRODUCT_DEVICE := gta2xlwifi
 PRODUCT_NAME := omni_gta2xlwifi
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := samsung
+PRODUCT_MODEL := SM-T590
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_RELEASE_NAME := samsung samsung
