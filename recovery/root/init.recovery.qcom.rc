@@ -46,3 +46,5 @@ service sbinqseecomd /sbin/qseecomfsd
     user root
     group root
     seclabel u:r:recovery:s0
+
+    export ANDROID_ROOT /system_root
